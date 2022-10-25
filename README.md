@@ -14,31 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fristnowk&show_icons=true&theme=radical" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fristnowk&show_icons=true&theme=radical&locale=cn&hide_border&layout=compact&card_width=500px" />
 </a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fristnowk&layout=compact" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fristnowk&layout=compact&locale=cn&line_height=500px" />
 </a>
-
 
 
 <a href="https://github.com/Fristnowk/vue_shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=vue_shop" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=vue_shop&show_owner=Fristnowk" />
 </a>
 <a href="https://github.com/Fristnowk/comic1.0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=music_audio" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=music_audio&show_owner=Fristnowk" />
 </a>
 <a href="https://github.com/Fristnowk/music_audio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=comic1.0" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=comic1.0&show_owner=Fristnowk" />
 </a>
 <a href="https://github.com/Fristnowk/PHP_shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=PHP_shop" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=PHP_shop&show_owner=Fristnowk" />
 </a>
 <a href="https://github.com/Fristnowk/SSM_Student">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=SSM_Student" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=SSM_Student&show_owner=Fristnowk" />
 </a>
 <a href="https://github.com/Fristnowk/Laravel_blogs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=Laravel_blogs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=Laravel_blogs&show_owner=Fristnowk" />
 </a>
