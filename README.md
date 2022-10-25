@@ -25,20 +25,20 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/Fristnowk/vue_shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=vue_shop&show_icons=Fristnowk" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=vue_shop&show_owner=Fristnowk" />
 </a>
 <a href="https://github.com/Fristnowk/comic1.0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=music_audio&show_icons=Fristnowk" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=music_audio&show_owner=Fristnowk" />
 </a>
 <a href="https://github.com/Fristnowk/music_audio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=comic1.0&show_icons=Fristnowk" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=comic1.0&show_owner=Fristnowk" />
 </a>
 <a href="https://github.com/Fristnowk/PHP_shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=PHP_shop&show_icons=Fristnowk" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=PHP_shop&show_owner=Fristnowk" />
 </a>
 <a href="https://github.com/Fristnowk/SSM_Student">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=SSM_Student&show_icons=Fristnowk" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=SSM_Student&show_owner=Fristnowk" />
 </a>
 <a href="https://github.com/Fristnowk/Laravel_blogs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=Laravel_blogs&show_icons=Fristnowk" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=Laravel_blogs&show_owner=Fristnowk" />
 </a>
