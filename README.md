@@ -1,4 +1,4 @@
-### Hi there 👋
+### 大家好！我是Fristnowk，欢迎来到我的主页！✨✨
 
 <!--
 **Fristnowk/Fristnowk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fristnowk&show_icons=true&theme=radical" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fristnowk&layout=compact" />
+</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fristnowk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fristnowk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<a href="https://github.com/Fristnowk/vue_shop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=vue_shop" />
+</a>
+<a href="https://github.com/Fristnowk/comic1.0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=music_audio" />
+</a>
+<a href="https://github.com/Fristnowk/music_audio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=comic1.0" />
+</a>
+<a href="https://github.com/Fristnowk/PHP_shop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=PHP_shop" />
+</a>
+<a href="https://github.com/Fristnowk/SSM_Student">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=SSM_Student" />
+</a>
+<a href="https://github.com/Fristnowk/Laravel_blogs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fristnowk&repo=Laravel_blogs" />
+</a>
