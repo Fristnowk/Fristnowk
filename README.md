@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fristnowk&show_icons=true&theme=radical&locale=cn&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fristnowk&layout=compact&locale=cn" />
-</a>
+
 
 
 
